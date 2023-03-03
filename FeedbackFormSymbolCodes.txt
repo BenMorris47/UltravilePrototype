@@ -1,0 +1,16 @@
+quotation %22
+pound %C2%A3
+uparrow %5E
+and %26 
+plus %2B
+equals %3D
+openCurlyB %7B
+closeCurlyB %7D
+openSquareB %5B
+closeSquareB %5D
+hashtag %23
+leftArrow %3C
+rightArrow %3E
+backSlash %5C
+newLine %0A
+percent %25

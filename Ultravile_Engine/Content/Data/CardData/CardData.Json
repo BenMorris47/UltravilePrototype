@@ -1,0 +1,78 @@
+{
+	"cardDataDic":
+	{
+		"BLADE":
+		{
+			"cardName": "Blade",
+			"cardDescription": "Unassigned Description",
+			"cardImageFileName": "cardPlaceholder.png",
+			"particleNames": [
+				"slash",
+				"impact"
+			],
+			"pipCost": 2,
+			"castRange": 8,
+			"removeOnUse": true,
+			"cardSound": [],
+			"orientFX": true,
+			"cardDamage": 4,
+			"targetType": "AllCells"
+		},
+		"HEAL":
+		{
+			"cardName": "Unassigned Name",
+			"cardDescription": "Unassigned Description",
+			"cardImageFileName": "cardPlaceholder.png",
+			"particleNames": [],
+			"pipCost": 1,
+			"castRange": 1,
+			"removeOnUse": true,
+			"cardSound": [],
+			"orientFX": false,
+			"cardDamage": 0,
+			"targetType": "FriendlyUnit"
+		},
+		"POISON":
+		{
+			"cardName": "Unassigned Name",
+			"cardDescription": "Unassigned Description",
+			"cardImageFileName": "cardPlaceholder.png",
+			"particleNames": [],
+			"pipCost": 1,
+			"castRange": 1,
+			"removeOnUse": true,
+			"cardSound": [],
+			"orientFX": false,
+			"cardDamage": 0,
+			"targetType": "FriendlyUnit"
+		},
+		"IM CONFUSED G":
+		{
+			"cardName": "Unassigned Name",
+			"cardDescription": "Unassigned Description",
+			"cardImageFileName": "cardPlaceholder.png",
+			"particleNames": [],
+			"pipCost": 1,
+			"castRange": 1,
+			"removeOnUse": true,
+			"cardSound": [],
+			"orientFX": false,
+			"cardDamage": 0,
+			"targetType": "FriendlyUnit"
+		},
+		"BLEED":
+		{
+			"cardName": "Unassigned Name",
+			"cardDescription": "Unassigned Description",
+			"cardImageFileName": "cardPlaceholder.png",
+			"particleNames": [],
+			"pipCost": 1,
+			"castRange": 1,
+			"removeOnUse": true,
+			"cardSound": [],
+			"orientFX": false,
+			"cardDamage": 0,
+			"targetType": "FriendlyUnit"
+		}
+	}
+}
